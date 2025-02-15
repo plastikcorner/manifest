@@ -1,0 +1,38 @@
+{
+  "name": "Plastik Corner",
+  "short_name": "PlastikCorner",
+  "start_url": "https://www.plastikcorner.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#EB0000",
+  "description": "Toko Grosir Plastik Kemasan Surabaya. Harga Murah & Barang Lengkap",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s48/PC-Logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s72/PC-Logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s96/PC-Logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s144/PC-Logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s168/PC-Logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s192/PC-Logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdp6rc9JOYKi_rr0h5NGIj17aKCnw0SY1j2paLhL4IoA1ohd1ZwQDIY8S_hooJEfcEiT-wsaOd6pvLa_m4-rMTebvBstoZ5W5PUec6IKZ1uT-axdAUmSD28yWo-rlpQeudBQW-vzN6fZuXX5PV1naOggxJWPw7HYjA428FCMALAc604LR4GC3gk0PiRVQ/s512/PC-Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
